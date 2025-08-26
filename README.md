@@ -7,11 +7,11 @@ Congratulations, you have made it to the last phase of the hiring process for th
 
 >You are required to perform the following tasks accordingly.
 
-*MS EXCEL
+*Ms Excel*
  *Make all necessary datatype correction to allow for a seamless transition into a postgresql database.
 
-*SQL
-> Analyse the data to answer the following questions given below:
+*SQL*
+* Analyse the data to answer the following questions given below:
 *Count the number of transactions in the dataset
 *Retrieve all records where the sales amount is greater than 100.
 *Find the total sales amount for each store
@@ -23,29 +23,27 @@ Congratulations, you have made it to the last phase of the hiring process for th
 *Find the average sales amount per transaction for each product type.
 *Find the total sales amount for each Month. 
 
-*POWER BI
+*Power bi*
 
-Finally, you are to load the data into Power BI and design a business dashboard for Maven Coffee. 
-Your dashboard should be properly designed and aligned. You should add useful insights such as the Month on Month sales percentage, Sales by time and others you feel are important to the business. 
-You will be marked down for any poor color combination on your dashboard. 
-You will be marked down if your dashboard lacks proper alignment of visuals. 
-Take your time to create something you will be proud to post online. 
-Try to limit your dashboard to just one page.
-Have a PDF version of your Dashboard and document any insights and recommendations you have under the heading “Power BI Processes”.
+ *load the data into Power BI and design a business dashboard for Maven Coffee. 
 
-Deliverables
-You are to submit your
-SQL File containing your queries.
-Power BI Dashboard in PDF format
-A word document report on your “MS EXCEL Process” and your “Power BI Process”.
 
 ### **methodology**
  *make all necessary datatype correction to allow for a seamless transition into a postgresql database. 
  *create columns for the months as this will make my analysis easier in SQL.
- *Once through, go ahead and document all that you have done. 
+ *Once through, go ahead and document all that I have done. 
  *Tag the heading as “MS EXCEL Process”. 
  *Now you must create a table in Postgresql and load the data into the table.
  *analyse the data to answer the following questions
  *Save the SQL queries for submission.   
  *Finally,load the data into Power BI and design a business dashboard for Maven Coffee. 
+ *Dashboard should be properly designed and aligned.
+ *Useful insights such as the Month on Month sales percentage, Sales by time and other useful insight that are important to the business. 
+ *Good color combination on your dashboard. 
  *PDF version oF Dashboard, documentation of  any insights and recommendations you have under the heading “Power BI Processes”.
+
+*Deliverables*
+
+*SQL File containing the queries.
+*Power BI Dashboard in PDF format
+*A word document report on “MS EXCEL Process” and “Power BI Process”.
