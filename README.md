@@ -3,4 +3,6 @@
 ## PROJECT OVERVIEW
 ### **objective**
 
-**scope**
+### **scope**
+
+### **methodology**
