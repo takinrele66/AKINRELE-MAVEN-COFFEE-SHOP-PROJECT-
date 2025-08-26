@@ -29,6 +29,8 @@ Congratulations, you have made it to the last phase of the hiring process for th
 
 
 ### **methodology**
+ * Data collection and Cleaning
+ * Conversion of Dataset from Excel to a CSV format for ease of data import into postgresql
  * make all necessary datatype correction to allow for a seamless transition into a postgresql database. 
  * create columns for the months as this will make my analysis easier in SQL.
  * Once through, go ahead and document all that I have done. 
@@ -41,7 +43,11 @@ Congratulations, you have made it to the last phase of the hiring process for th
  * Useful insights such as the Month on Month sales percentage, Sales by time and other useful insight that are important to the business. 
  * Good color combination on your dashboard. 
  * Create PDF version of the Dashboard, document any insights and recommendations you have under the heading “Power BI Processes”.
+   
+*Data Source*
+ * Dataset is an excel file from a Data Analysis Capstone project. 
 
+   
 *Deliverables*
 
 * SQL File containing the queries.
