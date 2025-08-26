@@ -10,7 +10,7 @@ Congratulations, you have made it to the last phase of the hiring process for th
 *Ms Excel*
   * Make all necessary datatype correction to allow for a seamless transition into a postgresql database.
 
-*SQL*
+*Sql*
 * Analyse the data to answer the following questions given below:
 * Count the number of transactions in the dataset
 * Retrieve all records where the sales amount is greater than 100.
