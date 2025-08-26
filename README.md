@@ -45,7 +45,7 @@ Congratulations, you have made it to the last phase of the hiring process for th
  * Create PDF version of the Dashboard, document any insights and recommendations you have under the heading “Power BI Processes”.
    
 *Data Source*
- * Dataset is an excel file from a Data Analysis Capstone project. 
+ * Dataset is provided by a training class as an  excel file for a Data Analysis Capstone project, which was downloaded and processed
 
    
 *Deliverables*
