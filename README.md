@@ -8,19 +8,19 @@ Congratulations, you have made it to the last phase of the hiring process for th
 >You are required to perform the following tasks accordingly.
 
 *Ms Excel*
- *Make all necessary datatype correction to allow for a seamless transition into a postgresql database.
+  *Make all necessary datatype correction to allow for a seamless transition into a postgresql database.
 
 *SQL*
 * Analyse the data to answer the following questions given below:
-*Count the number of transactions in the dataset
-*Retrieve all records where the sales amount is greater than 100.
-*Find the total sales amount for each store
-*List the unique product categories available in the dataset.
-*Retrieve transactions where the product type is 'Housewares' and the sales amount is between 50 and 100.
-*Calculate the average sales amount per transaction
-*Find the store with the highest total sales.
-*Count the number of transactions for each product category and sort the result by the count in descending order.
-*Find the average sales amount per transaction for each product type.
+* Count the number of transactions in the dataset
+* Retrieve all records where the sales amount is greater than 100.
+* Find the total sales amount for each store
+* List the unique product categories available in the dataset.
+* Retrieve transactions where the product type is 'Housewares' and the sales amount is between 50 and 100.
+* Calculate the average sales amount per transaction
+* Find the store with the highest total sales.
+* Count the number of transactions for each product category and sort the result by the count in descending order.
+* Find the average sales amount per transaction for each product type.
 *Find the total sales amount for each Month. 
 
 *Power bi*
