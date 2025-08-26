@@ -36,7 +36,7 @@ Congratulations, you have made it to the last phase of the hiring process for th
  * Once through, go ahead and document all that I have done. 
  * Tag the heading as “MS EXCEL Process”. 
  * Create a table in Postgresql and load the data into the table.
- * Analyse the data to answer the following questions
+ * Analyse the data to answer the queries
  * Save the SQL queries for submission.   
  * Finally,load the data into Power BI and design a business dashboard for Maven Coffee. 
  * Dashboard should be properly designed and aligned.
