@@ -25,7 +25,7 @@ Congratulations, you have made it to the last phase of the hiring process for th
 
 *Power bi*
 
- * load the data into Power BI and design a business dashboard for Maven Coffee. 
+ * Load the data into Power BI and design a business dashboard for Maven Coffee. 
 
 
 ### **methodology**
@@ -33,14 +33,14 @@ Congratulations, you have made it to the last phase of the hiring process for th
  * create columns for the months as this will make my analysis easier in SQL.
  * Once through, go ahead and document all that I have done. 
  * Tag the heading as “MS EXCEL Process”. 
- * Now you must create a table in Postgresql and load the data into the table.
- * analyse the data to answer the following questions
+ * Create a table in Postgresql and load the data into the table.
+ * Analyse the data to answer the following questions
  * Save the SQL queries for submission.   
  * Finally,load the data into Power BI and design a business dashboard for Maven Coffee. 
  * Dashboard should be properly designed and aligned.
  * Useful insights such as the Month on Month sales percentage, Sales by time and other useful insight that are important to the business. 
  * Good color combination on your dashboard. 
- * PDF version oF Dashboard, documentation of  any insights and recommendations you have under the heading “Power BI Processes”.
+ * Create PDF version of the Dashboard, document any insights and recommendations you have under the heading “Power BI Processes”.
 
 *Deliverables*
 
