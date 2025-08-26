@@ -8,7 +8,7 @@ Congratulations, you have made it to the last phase of the hiring process for th
 >You are required to perform the following tasks accordingly.
 
 *Ms Excel*
-  *Make all necessary datatype correction to allow for a seamless transition into a postgresql database.
+  * Make all necessary datatype correction to allow for a seamless transition into a postgresql database.
 
 *SQL*
 * Analyse the data to answer the following questions given below:
@@ -21,29 +21,29 @@ Congratulations, you have made it to the last phase of the hiring process for th
 * Find the store with the highest total sales.
 * Count the number of transactions for each product category and sort the result by the count in descending order.
 * Find the average sales amount per transaction for each product type.
-*Find the total sales amount for each Month. 
+* Find the total sales amount for each Month. 
 
 *Power bi*
 
- *load the data into Power BI and design a business dashboard for Maven Coffee. 
+ * load the data into Power BI and design a business dashboard for Maven Coffee. 
 
 
 ### **methodology**
- *make all necessary datatype correction to allow for a seamless transition into a postgresql database. 
- *create columns for the months as this will make my analysis easier in SQL.
- *Once through, go ahead and document all that I have done. 
- *Tag the heading as “MS EXCEL Process”. 
- *Now you must create a table in Postgresql and load the data into the table.
- *analyse the data to answer the following questions
- *Save the SQL queries for submission.   
- *Finally,load the data into Power BI and design a business dashboard for Maven Coffee. 
- *Dashboard should be properly designed and aligned.
- *Useful insights such as the Month on Month sales percentage, Sales by time and other useful insight that are important to the business. 
- *Good color combination on your dashboard. 
- *PDF version oF Dashboard, documentation of  any insights and recommendations you have under the heading “Power BI Processes”.
+ * make all necessary datatype correction to allow for a seamless transition into a postgresql database. 
+ * create columns for the months as this will make my analysis easier in SQL.
+ * Once through, go ahead and document all that I have done. 
+ * Tag the heading as “MS EXCEL Process”. 
+ * Now you must create a table in Postgresql and load the data into the table.
+ * analyse the data to answer the following questions
+ * Save the SQL queries for submission.   
+ * Finally,load the data into Power BI and design a business dashboard for Maven Coffee. 
+ * Dashboard should be properly designed and aligned.
+ * Useful insights such as the Month on Month sales percentage, Sales by time and other useful insight that are important to the business. 
+ * Good color combination on your dashboard. 
+ * PDF version oF Dashboard, documentation of  any insights and recommendations you have under the heading “Power BI Processes”.
 
 *Deliverables*
 
-*SQL File containing the queries.
-*Power BI Dashboard in PDF format
-*A word document report on “MS EXCEL Process” and “Power BI Process”.
+* SQL File containing the queries.
+* Power BI Dashboard in PDF format
+* A word document report on “MS EXCEL Process” and “Power BI Process”.
