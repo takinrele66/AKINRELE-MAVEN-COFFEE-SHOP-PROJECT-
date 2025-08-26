@@ -47,7 +47,11 @@ Congratulations, you have made it to the last phase of the hiring process for th
 *Data Source*
  * Dataset is provided by a training class as an  excel file for a Data Analysis Capstone project, which was downloaded and processed
 
-   
+ **Tools**
+ *microsoft Excel * Utilized for preliminary data correction,cleaning and initial review of the dataset
+ *Sql Server* * Used for indepth analysis to extract meaningful insight
+ 8Power Bi* * Used for visualization and provide detailed interractive reports
+    
 *Deliverables*
 
 * SQL File containing the queries.
