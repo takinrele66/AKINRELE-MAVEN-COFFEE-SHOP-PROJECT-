@@ -157,5 +157,5 @@ GROUP BY transaction_month
 
 ---
 
-[CAPSTONE PROJECT- POWER BI.pdf](https://github.com/user-attachments/files/21998897/CAPSTONE.PROJECT-.POWER.BI.pdf)
+
 
