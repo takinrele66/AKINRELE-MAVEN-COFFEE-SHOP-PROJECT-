@@ -64,3 +64,90 @@ Congratulations, you have made it to the last phase of the hiring process for th
 
  ```
 sql
+--creating a coffee sales database
+
+DROP TABLE IF EXISTS coffee_sales_table
+
+CREATE TABLE coffee_sales_table (            
+             transaction_id VARCHAR(200) NOT NULL,
+             transaction_date DATE NULL,
+	         transaction_month VARCHAR(200),
+             transaction_time VARCHAR (200) NOT NULL,
+             transaction_qty INT NOT NULL,
+             store_id VARCHAR (200) NOT NULL,
+             store_location VARCHAR (200) NOT NULL,
+             product_id VARCHAR (200) NOT NULL,
+             unit_price DECIMAL (200) NOT NULL,
+             sales_amount DECIMAL (200) NOT NULL,
+             product_category VARCHAR (200) NOT NULL,
+             product_type VARCHAR (200) NOT NULL,
+             product_detail VARCHAR (200));
+    
+	
+SELECT *
+FROM coffee_sales_table
+
+COPY coffee_sales_table FROM 'C:\Users\Tessy\Desktop\Coffee Shop Sales (1).csv 'DELIMITER ','CSV HEADER;
+
+1.	--Count the number of transactions in the dataset
+
+SELECT COUNT (transaction_id)
+FROM coffee_sales_table
+
+2.	--Retrieve all records where the sales amount is greater than 100
+
+SELECT*
+FROM coffee_sales_table
+WHERE sales_amount > 100
+
+3.	--Find the total sales amount for each store
+
+SELECT store_location,sum(sales_amount) AS "total sales amount"
+FROM coffee_sales_table
+GROUP BY store_location
+
+4.	--List the unique product categories available in the dataset.
+
+SELECT DISTINCT product_category
+FROM coffee_sales_table
+
+5.	--Retrieve transactions where the product type is 'Housewares' and the sales amount is between 50 and 100.
+
+SELECT product_type, sales_amount
+FROM coffee_sales_table
+WHERE product_type ='housewares'and sales_amount between 50 and 100
+
+
+6.	--Calculate the average sales amount per transaction
+
+SELECT round(AVG(sales_amount), 2)
+FROM coffee_sales_table
+
+7.	--Find the store with the highest total sales.
+
+SELECT store_location, sum(sales_amount)
+FROM coffee_sales_table
+GROUP BY store_location
+ORDER BY SUM(sales_amount) DESC
+
+8.	--Count the number of transactions for each product category and sort the result by the count in descending order.
+SELECT product_category, count (transaction_qty)
+FROM coffee_sales_table
+GROUP BY product_category
+ORDER BY COUNT(transaction_qty) DESC
+ 
+9.	--Find the average sales amount per transaction for each product type.
+
+SELECT product_type, round (avg (sales_amount), 2) AS "average sales amount"
+FROM coffee_sales_table
+GROUP BY product_type
+
+10.	--Find the total sales amount for each Month.
+
+SELECT transaction_month, SUM (sales_amount)
+FROM coffee_sales_table
+GROUP BY transaction_month
+
+
+
+
