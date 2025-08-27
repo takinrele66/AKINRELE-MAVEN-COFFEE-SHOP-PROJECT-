@@ -147,7 +147,7 @@ GROUP BY product_type
 SELECT transaction_month, SUM (sales_amount)
 FROM coffee_sales_table
 GROUP BY transaction_month
-
+```
 
 
 
