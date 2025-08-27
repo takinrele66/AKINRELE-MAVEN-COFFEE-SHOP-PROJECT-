@@ -52,7 +52,7 @@ Congratulations, you have made it to the last phase of the hiring process for th
  * **Sql Server:**  Used for indepth analysis to extract meaningful insight
  * **Power Bi:**  Used for visualization and provide detailed interractive reports
     
-*Deliverables*
+### **Deliverables**
 
 * SQL File containing the queries.
 * Power BI Dashboard in PDF format
