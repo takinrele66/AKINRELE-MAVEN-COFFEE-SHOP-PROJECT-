@@ -157,5 +157,6 @@ GROUP BY transaction_month
 
 ---
 
+![CAPSTONE PROJECT- POWER BI (4)project](https://github.com/user-attachments/assets/7aff9072-57c9-4564-aaec-0247f8e79f71)
 
 
