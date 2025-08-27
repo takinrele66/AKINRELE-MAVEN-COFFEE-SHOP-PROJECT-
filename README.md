@@ -57,3 +57,7 @@ Congratulations, you have made it to the last phase of the hiring process for th
 * SQL File containing the queries.
 * Power BI Dashboard in PDF format
 * A word document report on “MS EXCEL Process” and “Power BI Process”.
+
+### **Explanatory Data Analysis (EDA)**
+* In the EDA, We will examine the coffee shop sales dataset to address key sales trend and questions that can impact increase sales in maven coffee shop. this insight will help identify potential areas for improvement and facilitate data driven decision making.
+* 
