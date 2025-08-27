@@ -148,6 +148,14 @@ SELECT transaction_month, SUM (sales_amount)
 FROM coffee_sales_table
 GROUP BY transaction_month
 ```
+---
+
+### **Results**
 
 
+
+
+---
+
+[CAPSTONE PROJECT- POWER BI.pdf](https://github.com/user-attachments/files/21998897/CAPSTONE.PROJECT-.POWER.BI.pdf)
 
